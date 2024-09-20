@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "icon": "MdPlace",
+        "title": "Find Us",
+        "details": "Pune, Maharashtra"
+    },
+
+    {
+        "id": 3,
+        "icon": "TbMailPlus",
+        "title": "Email Us",
+        "details": "ContactUs@gmail.com"
+    },
+    {
+        "id": 2,
+        "icon": "IoCallSharp",
+        "title": "Call Us",
+        "details": "+91 1234567890"
+    }
+]
